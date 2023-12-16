@@ -13,13 +13,11 @@
 
 - 🤝 I’m looking for help with **frontEnd/backEnd**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PhelipeSilvestre](https://github.com/PhelipeSilvestre)
-
 - 📫 How to reach me **phelipe17silvestre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/phelipe-silvestre-636683125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phelipe silvestre" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/phelipe-silvestre-636683125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/phelipe-silvestre-636683125" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
