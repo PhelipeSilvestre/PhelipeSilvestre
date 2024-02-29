@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate in **Projects with a high potential for learning.**
 
-- 🤝 I’m looking for help with **frontEnd/backEnd**
+- 🤝 I’m looking for opportunity with **frontEnd/backEnd**
 
 - 📫 How to reach me **phelipe17silvestre@gmail.com**
 
