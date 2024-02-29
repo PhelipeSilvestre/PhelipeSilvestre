@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phelipesilvestre&label=Profile%20views&color=0e75b6&style=flat" alt="phelipesilvestre" /> </p>
 
-- 🔭 I’m currently studyin **Systems Analysis and A Development**
+- 🔭 I’m currently studyin **Systems Analysis and a Development**
 
 - 🌱 I’m currently learning **Javascript**
 
