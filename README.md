@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studyin **Systems Analysis and a Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate in **Projects with a high potential for learning.**
 
