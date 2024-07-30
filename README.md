@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phelipe Silvestre!</h1>
-<h3 align="center">I studying Systems Analysis and A Development with the goal of becoming a full-stack dev.</h3>
+<h3 align="center">I studying Systems Analysis and a Development with the goal of becoming a full-stack dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phelipesilvestre&label=Profile%20views&color=0e75b6&style=flat" alt="phelipesilvestre" /> </p>
 
