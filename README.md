@@ -82,5 +82,5 @@
 ---
 
 <p align="center" style="color: #FFA500;">
-  🎃 Happy Halloween! May your code be bug-free and your nights filled with spooky fun! 🎃
+  🎃 Happy Halloween! 🎃
 </p>
