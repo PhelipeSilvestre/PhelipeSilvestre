@@ -1,4 +1,4 @@
-<h1 align="center" style="color: orange;">🎃 Hello there! I'm Phelipe Silvestre 👋</h1>
+<h1 align="center" style="color: orange;">Hello there! I'm Phelipe Silvestre 👋</h1>
 <h3 align="center" style="color: #FFA500;">Systems Analysis and Development student, aspiring Full-Stack Developer from São Paulo, Brazil.</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="left" style="color: #FFA500;">🎃 Connect with me:</h3>
+<h3 align="left" style="color: #FFA500;">👨‍💻 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/phelipe-silvestre-636683125" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
@@ -79,8 +79,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phelipesilvestre&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
----
 
-<p align="center" style="color: #FFA500;">
-  🎃 Happy Halloween! 🎃
-</p>
