@@ -65,8 +65,8 @@
 - [NLW Journey - Reactjs](https://app.rocketseat.com.br/certificates/55513bd0-b22b-4875-b73e-ec40512b852f)
 - [Ada - Coders 24 Frontend](https://ada.tech/certificado?code=978dbf6e-17d9-a79b-7500-c330eb96bfe2)
 - [Ada - Git e Versionamento](https://ada.tech/certificado?code=b080913b-be42-8dd0-4de4-c69557d77e82)
-- [Curso Java - Rocketseat](https://app.rocketseat.com.br/certificates/d61571c9-0db8-4c61-a819-f84173437fee)
-- [Imersão dev Backend](https://cursos.alura.com.br/immersion/certificate/user/phelipe17silvestre)
+- [Rocketseat - Curso Java](https://app.rocketseat.com.br/certificates/d61571c9-0db8-4c61-a819-f84173437fee)
+- [Alura - Imersão dev Backend](https://cursos.alura.com.br/immersion/certificate/user/phelipe17silvestre)
 ---
 
 <p align="center"> 
