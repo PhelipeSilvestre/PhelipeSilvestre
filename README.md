@@ -58,7 +58,8 @@
 <h3 align="left" style="color: #FFA500;">🏆 Certifications:</h3>
 
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/PhelipeSilvestre/responsive-web-design)
-- [Descomplica - Frontend Developer](https://certificados.descomplica.com.br/graduacao/c2f7b3f144812333ff4c607ef7efa564e2aef1c6a7868415c3a488af233abd34)
+- [DIO - Bootcamp Frontend Ri-Happy](https://hermes.dio.me/certificates/P8QI1IIT.pdf)
+- [Descomplica - Frontend Deeloper](https://certificados.descomplica.com.br/graduacao/c2f7b3f144812333ff4c607ef7efa564e2aef1c6a7868415c3a488af233abd34)
 - [Descomplica - Backend Developer](https://certificados.descomplica.com.br/graduacao/ff9be8ac57deec3f12d2e55538f6fbc4cc5f3e600c3554f236d3dfd93a82959d)
 - [Descomplica - Object-Oriented Developer](https://certificados.descomplica.com.br/graduacao/70305e59ee99a706e7921ec3dc9e5daa885127e148e8a092a770be7105712ee2)
 - [Descomplica - Full Stack Developer](https://certificados.descomplica.com.br/graduacao/dff207b214b680feeb5e267718a1683359067879371804f3f805b886c4ffe841)
