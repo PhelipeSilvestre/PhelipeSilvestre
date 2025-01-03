@@ -65,7 +65,7 @@
 - [Descomplica - Full Stack Developer](https://certificados.descomplica.com.br/graduacao/dff207b214b680feeb5e267718a1683359067879371804f3f805b886c4ffe841)
 - [NLW Journey - Reactjs](https://app.rocketseat.com.br/certificates/55513bd0-b22b-4875-b73e-ec40512b852f)
 - [Ada - Santander Tech+ | Back-End](http://bit.ly/40hEFHz)
-- [Ada - Coders 24 Frontend](https://bit.ly/3BXG8JV)
+- [Ada - Coders 24 Frontend](https://bit.ly/3BUkjuI)
 - [Ada - Git e Versionamento](https://ada.tech/certificado?code=b080913b-be42-8dd0-4de4-c69557d77e82)
 - [Rocketseat - Curso Java](https://app.rocketseat.com.br/certificates/d61571c9-0db8-4c61-a819-f84173437fee)
 - [Alura - Imersão dev Backend](https://cursos.alura.com.br/immersion/certificate/user/phelipe17silvestre)
