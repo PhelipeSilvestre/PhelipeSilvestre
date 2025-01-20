@@ -12,7 +12,8 @@
 - 🤝 **Collaborative goals**: Front-end and Back-end opportunities  
 - 🧠 **Seeking projects**: Growth-focused and challenging  
 - 🌍 **Location**: São Paulo, Brazil  
-- 📬 **Contact me at**: phelipe17silvestre@gmail.com  
+- 📬 **Contact me at**: phelipe17silvestre@gmail.com
+- 🐱‍👤**My Personal Portfolio**: https://bit.ly/3WmgQfG
 
 ---
 
