@@ -1,29 +1,20 @@
 <h1 align="center" style="color: orange;">Hello there! I'm Phelipe Silvestre 👋</h1>
-<h3 align="center" style="color: #FFA500;">Systems Analysis and Development student, aspiring Full-Stack Developer from São Paulo, Brazil.</h3>
+<h3  style="color: #FFA500;">Full-Stack Developer from São Paulo, Brazil.</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=phelipesilvestre&label=👁️%20Profile%20views&color=FFA500&style=flat" alt="phelipesilvestre" />
 </p>
 
----
-
-- 🎓 **Currently studying**: Systems Analysis and Development  
-- 🌱 **Learning**: React and Node.js  
-- 🤝 **Collaborative goals**: Front-end and Back-end opportunities  
-- 🧠 **Seeking projects**: Growth-focused and challenging  
-- 🌍 **Location**: São Paulo, Brazil  
+- 🎓 Systems Analysis and Development student   
+- 🤝 Open to Front-end and Back-end opportunities 
+- 🧠 Seeking growth-focused and challenging projects 
+- 🌍 Based in São Paulo, Brazil  
 - 📬 **Contact me at**: phelipe17silvestre@gmail.com
 - 🐱‍👤**My Personal Portfolio**: https://bit.ly/40lV64K
 
----
+ <a align="center" href="https://bit.ly/40lV64K" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/Portfolio-9604D5?style=for-the-badge&logo=site&logoColor=white" height="30" align="center"/></a> <a href="mailto:phelipe17silvestrea@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/5511968378604" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="www.linkedin.com/in/phelipe-silvestre-636683125"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
-<h3 align="left" style="color: #FFA500;">👨‍💻 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/phelipe-silvestre-636683125" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
+ 
 ---
 
 <h3 align="left" style="color: #FFA500;">💻 Languages:</h3>
