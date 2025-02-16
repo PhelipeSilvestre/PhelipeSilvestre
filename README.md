@@ -11,7 +11,6 @@
 - 🌍 Based in São Paulo, Brazil  
 - 📬 **Contact me at**: phelipe17silvestre@gmail.com
 - 🐱‍👤**My Personal Portfolio**: [Visit Here](https://bit.ly/40lV64K)
-
  
 ---
 
