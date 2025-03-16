@@ -17,7 +17,7 @@
 <h3 align="left" style="color: #FFA500;">🛠️ Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,java,spring,js,py,react,angular,ts,expressjs,nodejs,npm,postgres,mongodb,md,git,github,vscode,postman,figma,stackoverflow&perline=11)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,react,expressjs,dart,flutter,java,spring,npm,postgres,mongodb,md,git,github,vscode,postman,figma,stackoverflow&perline=11)](#)
 
 
 
