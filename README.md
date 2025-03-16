@@ -27,10 +27,11 @@
 
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/PhelipeSilvestre/responsive-web-design)
 - [DIO - Bootcamp Frontend Ri-Happy](https://hermes.dio.me/certificates/P8QI1IIT.pdf)
-- [Descomplica - Frontend Developer](https://certificados.descomplica.com.br/graduacao/c2f7b3f144812333ff4c607ef7efa564e2aef1c6a7868415c3a488af233abd34)
+- [Descomplica - Basic Frontend Developer](https://certificados.descomplica.com.br/graduacao/c2f7b3f144812333ff4c607ef7efa564e2aef1c6a7868415c3a488af233abd34)
 - [Descomplica - Backend Developer](https://certificados.descomplica.com.br/graduacao/ff9be8ac57deec3f12d2e55538f6fbc4cc5f3e600c3554f236d3dfd93a82959d)
 - [Descomplica - Object-Oriented Developer](https://certificados.descomplica.com.br/graduacao/70305e59ee99a706e7921ec3dc9e5daa885127e148e8a092a770be7105712ee2)
 - [Descomplica - Full Stack Developer](https://certificados.descomplica.com.br/graduacao/dff207b214b680feeb5e267718a1683359067879371804f3f805b886c4ffe841)
+- [Descomplica - Frontend Developer](https://certificados.descomplica.com.br/graduacao/f5640f059ffaaf05d1db09dd6a36159a3148f6ed4127cde3bb6f6baf300946ab)
 - [NLW Journey - Reactjs](https://app.rocketseat.com.br/certificates/55513bd0-b22b-4875-b73e-ec40512b852f)
 - [Ada - Santander Tech+ | Back-End](http://bit.ly/40hEFHz)
 - [Ada - Coders 24 Frontend](https://tinyurl.com/bdauw7pf)
